@@ -1,0 +1,261 @@
+{
+    "status": true,
+    "response": {
+        "data": [
+            {
+                "paneType": "content",
+                "content": {
+                    "title": "Unified Seasons Episodes",
+                    "backgroundImage": "",
+                    "posterImage": "",
+                    "dataRows": [
+                        {
+                            "rowDataType": "content",
+                            "elements": [
+                                {
+                                    "elementSubtype": "title",
+                                    "contentCode": "unified_series_episodes_info",
+                                    "data": "After the First 48",
+                                    "rowNumber": 1,
+                                    "columnSpan": 2,
+                                    "id": 1452,
+                                    "columnNumber": 1,
+                                    "rowSpan": 1,
+                                    "target": "",
+                                    "isClickable": false,
+                                    "elementType": "text"
+                                }
+                            ],
+                            "rowNumber": 1
+                        },
+                        {
+                            "rowDataType": "content",
+                            "elements": [
+                                {
+                                    "elementSubtype": "description",
+                                    "contentCode": "unified_series_episodes_info",
+                                    "data": "Following up on cases presented in \"First 48.\"",
+                                    "rowNumber": 3,
+                                    "columnSpan": 1,
+                                    "id": 1453,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "",
+                                    "isClickable": false,
+                                    "elementType": "description"
+                                }
+                            ],
+                            "rowNumber": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "paneType": "section",
+                "section": {
+                    "sectionInfo": {
+                        "name": "Season 1",
+                        "description": "",
+                        "dataSubType": "",
+                        "bannerImage": "",
+                        "code": "epg_season_0",
+                        "dataType": "epg_season",
+                        "iconUrl": ""
+                    },
+                    "sectionControls": {
+                        "showViewAll": false,
+                        "viewAllTargetPath": "",
+                        "infiniteScroll": true
+                    },
+                    "sectionData": {
+                        "dataRequestDelay": 0,
+                        "data": [],
+                        "hasMoreData": false,
+                        "section": "epg_season_4649",
+                        "lastIndex": 36
+                    }
+                }
+            },
+            {
+                "paneType": "section",
+                "section": {
+                    "sectionInfo": {
+                        "name": "Season 7",
+                        "description": "",
+                        "dataSubType": "",
+                        "bannerImage": "",
+                        "code": "epg_season_11132638936",
+                        "dataType": "epg_season",
+                        "iconUrl": ""
+                    },
+                    "sectionControls": {
+                        "showViewAll": false,
+                        "viewAllTargetPath": "",
+                        "infiniteScroll": true
+                    },
+                    "sectionData": {
+                        "dataRequestDelay": 0,
+                        "data": [
+                            {
+                                "hover": {
+                                    "elements": [
+                                        {
+                                            "key": "name",
+                                            "value": "THE DARK TRAIL (#84)",
+                                            "elementType": "",
+                                            "icon": ""
+                                        }
+                                    ]
+                                },
+                                "metadata": {},
+                                "template": "tvshow_episode_continue_watching_popup",
+                                "target": {
+                                    "path": "video/play/vujrdcr",
+                                    "pageType": "player",
+                                    "pageAttributes": {
+                                        "contentType": "tvshowepisode",
+                                        "RokuGenreCode": "drama",
+                                        "id": "2410"
+                                    }
+                                },
+                                "cardType": "sheet_poster",
+                                "display": {
+                                    "subtitle5": "",
+                                    "subtitle3": "",
+                                    "parentIcon": "",
+                                    "subtitle2": "",
+                                    "markers": [],
+                                    "parentName": "",
+                                    "subtitle1": "Episode - 10",
+                                    "subtitle4": "",
+                                    "layout": "landscape",
+                                    "title": "THE DARK TRAIL (#84)",
+                                    "imageUrl": "common,tvshows/images/test-ane-aehm2560852206130000-af48-hd-thumbnail.jpg"
+                                }
+                            }
+                        ],
+                        "hasMoreData": false,
+                        "section": "epg_season_4025",
+                        "lastIndex": 36
+                    }
+                }
+            },
+            {
+                "paneType": "section",
+                "section": {
+                    "sectionInfo": {
+                        "name": "Season 5",
+                        "description": "",
+                        "dataSubType": "",
+                        "bannerImage": "",
+                        "code": "epg_season_4604817977",
+                        "dataType": "epg_season",
+                        "iconUrl": ""
+                    },
+                    "sectionControls": {
+                        "showViewAll": false,
+                        "viewAllTargetPath": "",
+                        "infiniteScroll": true
+                    },
+                    "sectionData": {
+                        "dataRequestDelay": 0,
+                        "data": [],
+                        "hasMoreData": false,
+                        "section": "epg_season_3644",
+                        "lastIndex": 36
+                    }
+                }
+            },
+            {
+                "paneType": "section",
+                "section": {
+                    "sectionInfo": {
+                        "name": "Season 6",
+                        "description": "",
+                        "dataSubType": "",
+                        "bannerImage": "",
+                        "code": "epg_season_11132638934",
+                        "dataType": "epg_season",
+                        "iconUrl": ""
+                    },
+                    "sectionControls": {
+                        "showViewAll": false,
+                        "viewAllTargetPath": "",
+                        "infiniteScroll": true
+                    },
+                    "sectionData": {
+                        "dataRequestDelay": 0,
+                        "data": [],
+                        "hasMoreData": false,
+                        "section": "epg_season_4024",
+                        "lastIndex": 36
+                    }
+                }
+            },
+            {
+                "paneType": "section",
+                "section": {
+                    "sectionInfo": {
+                        "name": "Season 4",
+                        "description": "",
+                        "dataSubType": "",
+                        "bannerImage": "",
+                        "code": "epg_season_4604817975",
+                        "dataType": "epg_season",
+                        "iconUrl": ""
+                    },
+                    "sectionControls": {
+                        "showViewAll": false,
+                        "viewAllTargetPath": "",
+                        "infiniteScroll": true
+                    },
+                    "sectionData": {
+                        "dataRequestDelay": 0,
+                        "data": [],
+                        "hasMoreData": false,
+                        "section": "epg_season_3645",
+                        "lastIndex": 36
+                    }
+                }
+            }
+        ],
+        "adUrlResponse": {
+            "adConfigName": "",
+            "adUrlTypes": []
+        },
+        "promoBanners": [],
+        "info": {
+            "pageType": "details",
+            "code": "unified_series_episodes",
+            "path": "series/shows/18825808",
+            "attributes": {
+                "contentType": "epgseriesdetails"
+            }
+        },
+        "banners": [],
+        "pageEventInfo": [],
+        "shareInfo": {
+            "isSharingAllowed": false,
+            "name": "",
+            "description": "",
+            "imageUrl": ""
+        },
+        "filters": [],
+        "tabsInfo": {
+            "showTabs": false,
+            "hints": "",
+            "tabs": [],
+            "selectedTab": ""
+        },
+        "pageButtons": {
+            "showFavouriteButton": false,
+            "isFavourite": false
+        },
+        "seoInfo": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "metaTags": []
+        }
+    }
+}

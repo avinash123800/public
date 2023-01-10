@@ -1,0 +1,164 @@
+{
+    "status": true,
+    "response": {
+        "data": [
+            {
+                "paneType": "content",
+                "content": {
+                    "title": "After the First 48",
+                    "backgroundImage": "http://cps-static.rovicorp.com/2/Open/A_E/Program/19209439/_derived_jpg_q90_500x500_m0/After_The_First_48_S7_3840x2160_no_title_6_1643622846901_8.jpg",
+                    "posterImage": "",
+                    "dataRows": [
+                        {
+                            "rowDataType": "content",
+                            "elements": [
+                                {
+                                    "elementSubtype": "",
+                                    "contentCode": "unified_series_info",
+                                    "data": "http://cps-static.rovicorp.com/2/Open/A_E/Program/19209439/_derived_jpg_q90_500x500_m0/After_The_First_48_S7_3840x2160_no_title_6_1643622846901_8.jpg",
+                                    "rowNumber": 1,
+                                    "columnSpan": 2,
+                                    "id": 1444,
+                                    "columnNumber": 1,
+                                    "rowSpan": 1,
+                                    "target": "",
+                                    "isClickable": false,
+                                    "elementType": "image"
+                                },
+                                {
+                                    "elementSubtype": "title",
+                                    "contentCode": "unified_series_info",
+                                    "data": "After the First 48",
+                                    "rowNumber": 1,
+                                    "columnSpan": 1,
+                                    "id": 1445,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "",
+                                    "isClickable": false,
+                                    "elementType": "text"
+                                }
+                            ],
+                            "rowNumber": 1
+                        },
+                        {
+                            "rowDataType": "content",
+                            "elements": [
+                                {
+                                    "elementSubtype": "description",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Following up on cases presented in \"First 48.\"",
+                                    "rowNumber": 3,
+                                    "columnSpan": 1,
+                                    "id": 1446,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "",
+                                    "isClickable": false,
+                                    "elementType": "description"
+                                }
+                            ],
+                            "rowNumber": 3
+                        },
+                        {
+                            "rowDataType": "button",
+                            "elements": [
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                }
+                            ],
+                            "rowNumber": 4
+                        }
+                    ]
+                }
+            }
+        ],
+        "adUrlResponse": {
+            "adConfigName": "",
+            "adUrlTypes": []
+        },
+        "promoBanners": [],
+        "info": {
+            "pageType": "details",
+            "code": "unified_series",
+            "path": "series/details/18825808",
+            "attributes": {
+                "contentType": "epgseriesdetails"
+            }
+        },
+        "banners": [],
+        "pageEventInfo": [],
+        "shareInfo": {
+            "isSharingAllowed": false,
+            "name": "",
+            "description": "",
+            "imageUrl": ""
+        },
+        "filters": [],
+        "tabsInfo": {
+            "showTabs": false,
+            "hints": "",
+            "tabs": [],
+            "selectedTab": ""
+        },
+        "pageButtons": {
+            "showFavouriteButton": false,
+            "isFavourite": false
+        },
+        "seoInfo": {
+            "title": "",
+            "description": "",
+            "keywords": "",
+            "metaTags": []
+        }
+    }
+}
