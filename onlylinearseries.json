@@ -1,1873 +1,1940 @@
 {
-	"status": true,
-	"response": {
-		"data": [
-			{
-				"paneType": "content",
-				"content": {
-					"title": "Unified Seasons Episodes",
-					"backgroundImage": "",
-					"posterImage": "",
-					"dataRows": [
-						{
-							"rowDataType": "content",
-							"elements": [
-								{
-									"elementSubtype": "title",
-									"contentCode": "unified_series_episodes_info",
-									"data": "Heartland",
-									"rowNumber": 1,
-									"columnSpan": 2,
-									"id": 1452,
-									"columnNumber": 1,
-									"rowSpan": 1,
-									"target": "",
-									"isClickable": false,
-									"elementType": "text"
-								}
-							],
-							"rowNumber": 1
-						},
-						{
-							"rowDataType": "content",
-							"elements": [
-								{
-									"elementSubtype": "description",
-									"contentCode": "unified_series_episodes_info",
-									"data": "A cash-strapped family farm for distressed horses is the setting for this dramatic series.",
-									"rowNumber": 3,
-									"columnSpan": 1,
-									"id": 1453,
-									"columnNumber": 2,
-									"rowSpan": 1,
-									"target": "",
-									"isClickable": false,
-									"elementType": "description"
-								}
-							],
-							"rowNumber": 3
-						}
-					]
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 1",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_642",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_642",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 1",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_1147",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "52"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1193894",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673222400000",
-										"RokuGenreCode": "drama,series premiere,equestrian,comedy,family issues,season premiere",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673226000000",
-										"id": "1193894",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/lerxhw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673222400000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673226000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "Circle",
-									"subtitle1": "S1 - Ep1 | Mon, Jan 9 | 5:30 AM - 6:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "52"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1193895",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673226000000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673229600000",
-										"id": "1193895",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/lerxhw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673226000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673229600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "Circle",
-									"subtitle1": "S1 - Ep2 | Mon, Jan 9 | 6:30 AM - 7:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "52"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1193913",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673294400000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673298000000",
-										"id": "1193913",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/lerxhw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673294400000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673298000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "Circle",
-									"subtitle1": "S1 - Ep11 | Tue, Jan 10 | 1:30 AM - 2:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "52"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1193914",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673298000000",
-										"RokuGenreCode": "drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673301600000",
-										"id": "1193914",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/lerxhw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673298000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673301600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "Circle",
-									"subtitle1": "S1 - Ep12 | Tue, Jan 10 | 2:30 AM - 3:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							}
-						],
-						"hasMoreData": false,
-						"section": "epg_season_1147",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 2",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_357",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194286",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673301000000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673303580000",
-										"id": "1194286",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673301000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673303580000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S2 - Ep16 | Tue, Jan 10 | 3:20 AM - 4:03 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194287",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673303580000",
-										"RokuGenreCode": "drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673306160000",
-										"id": "1194287",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673303580000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673306160000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S2 - Ep17 | Tue, Jan 10 | 4:03 AM - 4:46 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194288",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673306160000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues,season finale",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673308800000",
-										"id": "1194288",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673306160000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673308800000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S2 - Ep18 | Tue, Jan 10 | 4:46 AM - 5:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							}
-						],
-						"hasMoreData": false,
-						"section": "epg_season_357",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 3",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_683",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_683",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 4",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_768",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_768",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 5",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_860",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_860",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 6",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_972",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_972",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 7",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_1014",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_1014",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 8",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_1026",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_1026",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 9",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_1840",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1195354",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673110200000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673112780000",
-										"id": "1195354",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673110200000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673112780000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S9 - Ep4 | Sat, Jan 7 | 10:20 PM - 11:03 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1195355",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673112780000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673115360000",
-										"id": "1195355",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673112780000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673115360000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S9 - Ep5 | Sat, Jan 7 | 11:03 PM - 11:46 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1192141",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673115360000",
-										"RokuGenreCode": "drama,equestrian,comedy,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673118000000",
-										"id": "1192141",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673115360000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673118000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S9 - Ep6 | Sat, Jan 7 | 11:46 PM - 12:30 AM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							}
-						],
-						"hasMoreData": false,
-						"section": "epg_season_1840",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 10",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_379",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_379",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 11",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_771",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_771",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 12",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_976",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_976",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 13",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_388",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "45"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194279",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673280000000",
-										"RokuGenreCode": "drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673283600000",
-										"id": "1194279",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/cpotwf.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673280000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673283600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "BYUtv",
-									"subtitle1": "S13 - Ep5 | Mon, Jan 9 | 9:30 PM - 10:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,7821543471_39135564__derived_jpg_q90_500x500_m0_heartland_211_82fd52c384c36887.jpg"
-								}
-							}
-						],
-						"hasMoreData": false,
-						"section": "epg_season_388",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 14",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_2428",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1192108",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673096400000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673100000000",
-										"id": "1192108",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673096400000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673100000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep1 | Sat, Jan 7 | 6:30 PM - 7:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194247",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673262000000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673265600000",
-										"id": "1194247",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673262000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673265600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep2 | Mon, Jan 9 | 4:30 PM - 5:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194248",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673265600000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673269200000",
-										"id": "1194248",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673265600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673269200000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep3 | Mon, Jan 9 | 5:30 PM - 6:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1194249",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673269200000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673272800000",
-										"id": "1194249",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673269200000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673272800000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep4 | Mon, Jan 9 | 6:30 PM - 7:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1195333",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673348400000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673352000000",
-										"id": "1195333",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673348400000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673352000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep5 | Tue, Jan 10 | 4:30 PM - 5:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "epg/play/1195334",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673352000000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673355600000",
-										"id": "1195334",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "startTime",
-											"value": "1673352000000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673355600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep6 | Tue, Jan 10 | 5:30 PM - 6:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							},
-							{
-								"hover": {
-									"elements": [
-										{
-											"key": "name",
-											"value": "Heartland",
-											"elementType": "",
-											"icon": ""
-										},
-										{
-											"key": "isFavourite",
-											"value": "true",
-											"elementType": "",
-											"icon": ""
-										}
-									]
-								},
-								"episode": "",
-								"metadata": {
-									"channelId": {
-										"key": "channelId",
-										"value": "41"
-									}
-								},
-								"template": "tvguide-popup-sample",
-								"target": {
-									"path": "channel/live/up_tv",
-									"pageType": "player",
-									"pageAttributes": {
-										"isRecordingAllowed": "true",
-										"startTime": "1673355600000",
-										"RokuGenreCode": "comedy,drama,equestrian,family issues",
-										"recordingForm": "player_recording_form",
-										"endTime": "1673359200000",
-										"contentType": "epg",
-										"isRecordingDisabled": "false",
-										"isLive": "true",
-										"isRecorded": "false"
-									}
-								},
-								"cardType": "sheet_poster",
-								"display": {
-									"subtitle5": "",
-									"subtitle3": "",
-									"parentIcon": "logo,channel/logos/ktujyw.png",
-									"subtitle2": "",
-									"markers": [
-										{
-											"markerType": "special",
-											"value": "non_playable",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "startTime",
-											"value": "1673355600000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										},
-										{
-											"markerType": "endTime",
-											"value": "1673359200000",
-											"bgColor": "00FFFFFF",
-											"textColor": "FFFFA500"
-										}
-									],
-									"parentName": "UP TV",
-									"subtitle1": "S14 - Ep7 | Tue, Jan 10 | 6:30 PM - 7:30 PM",
-									"subtitle4": "2224158",
-									"layout": "landscape",
-									"title": "Heartland",
-									"imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
-								}
-							}
-						],
-						"hasMoreData": false,
-						"section": "epg_season_2428",
-						"lastIndex": 36
-					}
-				}
-			},
-			{
-				"paneType": "section",
-				"section": {
-					"sectionInfo": {
-						"name": "Season 15",
-						"description": "",
-						"dataSubType": "",
-						"bannerImage": "",
-						"code": "epg_season_4394",
-						"dataType": "epg_season",
-						"iconUrl": ""
-					},
-					"sectionControls": {
-						"showViewAll": false,
-						"viewAllTargetPath": "",
-						"infiniteScroll": true
-					},
-					"sectionData": {
-						"dataRequestDelay": 0,
-						"data": [],
-						"hasMoreData": false,
-						"section": "epg_season_4394",
-						"lastIndex": 36
-					}
-				}
-			}
-		],
-		"adUrlResponse": {
-			"adConfigName": "",
-			"adUrlTypes": []
-		},
-		"promoBanners": [],
-		"info": {
-			"pageType": "details",
-			"code": "unified_series_episodes",
-			"path": "series/shows/2224158",
-			"attributes": {
-				"contentType": "unifiedseriesdetails"
-			}
-		},
-		"banners": [],
-		"pageEventInfo": [],
-		"shareInfo": {
-			"isSharingAllowed": false,
-			"name": "",
-			"description": "",
-			"imageUrl": ""
-		},
-		"filters": [],
-		"tabsInfo": {
-			"showTabs": true,
-			"hints": "web",
-			"tabs": [
-				{
-					"code": "epg_season_642",
-					"title": "Season 1",
-					"sectionCodes": [
-						"epg_season_642"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_1147",
-					"title": "Season 1",
-					"sectionCodes": [
-						"epg_season_1147"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_357",
-					"title": "Season 2",
-					"sectionCodes": [
-						"epg_season_357"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_683",
-					"title": "Season 3",
-					"sectionCodes": [
-						"epg_season_683"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_768",
-					"title": "Season 4",
-					"sectionCodes": [
-						"epg_season_768"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_860",
-					"title": "Season 5",
-					"sectionCodes": [
-						"epg_season_860"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_972",
-					"title": "Season 6",
-					"sectionCodes": [
-						"epg_season_972"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_1014",
-					"title": "Season 7",
-					"sectionCodes": [
-						"epg_season_1014"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_1026",
-					"title": "Season 8",
-					"sectionCodes": [
-						"epg_season_1026"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_1840",
-					"title": "Season 9",
-					"sectionCodes": [
-						"epg_season_1840"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_379",
-					"title": "Season 10",
-					"sectionCodes": [
-						"epg_season_379"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_771",
-					"title": "Season 11",
-					"sectionCodes": [
-						"epg_season_771"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_976",
-					"title": "Season 12",
-					"sectionCodes": [
-						"epg_season_976"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_388",
-					"title": "Season 13",
-					"sectionCodes": [
-						"epg_season_388"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_2428",
-					"title": "Season 14",
-					"sectionCodes": [
-						"epg_season_2428"
-					],
-					"infiniteScroll": true
-				},
-				{
-					"code": "epg_season_4394",
-					"title": "Season 15",
-					"sectionCodes": [
-						"epg_season_4394"
-					],
-					"infiniteScroll": true
-				}
-			],
-			"selectedTab": "epg_season_642"
-		},
-		"pageButtons": {
-			"showFavouriteButton": false,
-			"isFavourite": false
-		},
-		"seoInfo": {
-			"title": "",
-			"description": "",
-			"keywords": "",
-			"metaTags": []
-		}
-	}
+  "status": true,
+  "response": {
+    "data": [
+      {
+        "paneType": "content",
+        "content": {
+          "title": "Unified Seasons Episodes",
+          "backgroundImage": "",
+          "posterImage": "",
+          "dataRows": [
+            {
+              "rowDataType": "content",
+              "elements": [
+                {
+                  "elementSubtype": "title",
+                  "contentCode": "unified_series_episodes_info",
+                  "data": "",
+                  "rowNumber": 1,
+                  "columnSpan": 2,
+                  "id": 1452,
+                  "columnNumber": 1,
+                  "rowSpan": 1,
+                  "target": "",
+                  "isClickable": false,
+                  "elementType": "text"
+                }
+              ],
+              "rowNumber": 1
+            },
+            {
+              "rowDataType": "content",
+              "elements": [
+                {
+                  "elementSubtype": "description",
+                  "contentCode": "unified_series_episodes_info",
+                  "data": "",
+                  "rowNumber": 3,
+                  "columnSpan": 1,
+                  "id": 1453,
+                  "columnNumber": 2,
+                  "rowSpan": 1,
+                  "target": "",
+                  "isClickable": false,
+                  "elementType": "description"
+                }
+              ],
+              "rowNumber": 3
+            }
+          ]
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Season 1",
+            "cardsCount": 4,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_1147",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195106",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673380800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues,season finale",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673384400000",
+                    "id": "1195106",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673380800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673384400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 12 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S1 - Ep13 | Wed, Jan 11 | 1:30 AM - 2:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197612",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673521200000",
+                    "RokuGenreCode": "drama,series premiere,equestrian,comedy,family issues,season premiere",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673524800000",
+                    "id": "1197612",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673521200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep1 | Thu, Jan 12 | 4:30 PM - 5:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197613",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673524800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673528400000",
+                    "id": "1197613",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep2 | Thu, Jan 12 | 5:30 PM - 6:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197614",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673528400000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673532000000",
+                    "id": "1197614",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673532000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep3 | Thu, Jan 12 | 6:30 PM - 7:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_1147",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Season 2",
+            "cardsCount": 5,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_357",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195107",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673384400000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues,season premiere",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673388000000",
+                    "id": "1195107",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673384400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673388000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 13 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S2 - Ep1 | Wed, Jan 11 | 2:30 AM - 3:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196216",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673467200000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673470800000",
+                    "id": "1196216",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673467200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673470800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S2 - Ep2 | Thu, Jan 12 | 1:30 AM - 2:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196217",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673470800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673474400000",
+                    "id": "1196217",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673470800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673474400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S2 - Ep3 | Thu, Jan 12 | 2:30 AM - 3:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197384",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673553600000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673557200000",
+                    "id": "1197384",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673553600000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673557200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S2 - Ep4 | Fri, Jan 13 | 1:30 AM - 2:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197385",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673557200000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673560800000",
+                    "id": "1197385",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673557200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673560800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S2 - Ep5 | Fri, Jan 13 | 2:30 AM - 3:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_357",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Season 3",
+            "cardsCount": 9,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_683",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195392",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673387400000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues,season premiere",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673389980000",
+                    "id": "1195392",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673387400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673389980000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 14 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep1 | Wed, Jan 11 | 3:20 AM - 4:03 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195393",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673389980000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673392560000",
+                    "id": "1195393",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673389980000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673392560000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 15 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep2 | Wed, Jan 11 | 4:03 AM - 4:46 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195394",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673392560000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673395200000",
+                    "id": "1195394",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673392560000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673395200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 15 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep3 | Wed, Jan 11 | 4:46 AM - 5:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196492",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673473800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673476380000",
+                    "id": "1196492",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673473800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673476380000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep4 | Thu, Jan 12 | 3:20 AM - 4:03 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196493",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673476380000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673478960000",
+                    "id": "1196493",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673476380000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673478960000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep5 | Thu, Jan 12 | 4:03 AM - 4:46 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196494",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673478960000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673481600000",
+                    "id": "1196494",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673478960000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673481600000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep6 | Thu, Jan 12 | 4:46 AM - 5:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197658",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673560200000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673562780000",
+                    "id": "1197658",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673560200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673562780000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep7 | Fri, Jan 13 | 3:20 AM - 4:03 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197659",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673562780000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673565360000",
+                    "id": "1197659",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673562780000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673565360000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep8 | Fri, Jan 13 | 4:03 AM - 4:46 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197660",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673565360000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673568000000",
+                    "id": "1197660",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673565360000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673568000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S3 - Ep9 | Fri, Jan 13 | 4:46 AM - 5:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_683",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Season 13",
+            "cardsCount": 3,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_388",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195384",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673366400000",
+                    "RokuGenreCode": "drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673370000000",
+                    "id": "1195384",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673366400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673370000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 8 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S13 - Ep6 | Tue, Jan 10 | 9:30 PM - 10:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,7841242099_39189580__derived_jpg_q90_500x500_m0_heartland_212_adc5c899a2704f2a.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196484",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673452800000",
+                    "RokuGenreCode": "drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673456400000",
+                    "id": "1196484",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673452800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673456400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S13 - Ep7 | Wed, Jan 11 | 9:30 PM - 10:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,7860770198_39240805__derived_jpg_q90_500x500_m0_heartland_213_a15ecfbe414398df.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "45"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197650",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673539200000",
+                    "RokuGenreCode": "drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673542800000",
+                    "id": "1197650",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/cpotwf.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673539200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673542800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "BYUtv",
+                  "subtitle1": "S13 - Ep8 | Thu, Jan 12 | 9:30 PM - 10:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,7881684964_39287282__derived_jpg_q90_500x500_m0_heartland_214_a99088963995ec43.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_388",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Season 14",
+            "cardsCount": 5,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_2428",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195333",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673348400000",
+                    "RokuGenreCode": "comedy,drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673352000000",
+                    "id": "1195333",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673348400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673352000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 3 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S14 - Ep5 | Tue, Jan 10 | 4:30 PM - 5:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195334",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673352000000",
+                    "RokuGenreCode": "comedy,drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673355600000",
+                    "id": "1195334",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673352000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673355600000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 4 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S14 - Ep6 | Tue, Jan 10 | 5:30 PM - 6:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195335",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673355600000",
+                    "RokuGenreCode": "comedy,drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673359200000",
+                    "id": "1195335",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673355600000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673359200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 5 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S14 - Ep7 | Tue, Jan 10 | 6:30 PM - 7:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196444",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673438400000",
+                    "RokuGenreCode": "comedy,drama,equestrian,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673442000000",
+                    "id": "1196444",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673438400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673442000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S14 - Ep9 | Wed, Jan 11 | 5:30 PM - 6:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1196445",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673442000000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673445600000",
+                    "id": "1196445",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673442000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673445600000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S14 - Ep10 | Wed, Jan 11 | 6:30 PM - 7:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,9832819577_44544627__derived_jpg_q90_500x500_m0_heartland_227_9f9a17761da790fe.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_2428",
+            "lastIndex": 36
+          }
+        }
+      }
+    ],
+    "adUrlResponse": {
+      "adConfigName": "",
+      "adUrlTypes": []
+    },
+    "promoBanners": [],
+    "info": {
+      "pageType": "details",
+      "code": "unified_series_episodes",
+      "path": "series/shows/2224158",
+      "attributes": {
+        "contentType": "unifiedseriesdetails"
+      }
+    },
+    "banners": [],
+    "pageEventInfo": [],
+    "shareInfo": {
+      "isSharingAllowed": false,
+      "name": "",
+      "description": "",
+      "imageUrl": ""
+    },
+    "filters": [],
+    "tabsInfo": {
+      "showTabs": true,
+      "hints": "web",
+      "tabs": [
+        {
+          "code": "epg_season_1147",
+          "title": "Season 1",
+          "sectionCodes": [
+            "epg_season_1147"
+          ],
+          "infiniteScroll": true
+        },
+        {
+          "code": "epg_season_357",
+          "title": "Season 2",
+          "sectionCodes": [
+            "epg_season_357"
+          ],
+          "infiniteScroll": true
+        },
+        {
+          "code": "epg_season_683",
+          "title": "Season 3",
+          "sectionCodes": [
+            "epg_season_683"
+          ],
+          "infiniteScroll": true
+        },
+        {
+          "code": "epg_season_388",
+          "title": "Season 13",
+          "sectionCodes": [
+            "epg_season_388"
+          ],
+          "infiniteScroll": true
+        },
+        {
+          "code": "epg_season_2428",
+          "title": "Season 14",
+          "sectionCodes": [
+            "epg_season_2428"
+          ],
+          "infiniteScroll": true
+        }
+      ],
+      "selectedTab": "epg_season_1147"
+    },
+    "pageButtons": {
+      "showFavouriteButton": false,
+      "isFavourite": false
+    },
+    "seoInfo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "metaTags": []
+    }
+  }
 }
