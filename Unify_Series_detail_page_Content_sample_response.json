@@ -132,7 +132,7 @@
             "code": "unified_series",
             "path": "series/details/18825808",
             "attributes": {
-                "contentType": "epgseriesdetails"
+                "contentType": "unifiedepisodesdetails"
             }
         },
         "banners": [],
