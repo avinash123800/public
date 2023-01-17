@@ -203,6 +203,12 @@
                       "value": "1673524800000",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Demand",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "UP TV",
@@ -265,6 +271,12 @@
                       "value": "1673528400000",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "UP TV",
@@ -423,6 +435,12 @@
                       "value": "Expires in 13 hours",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "Circle",
@@ -671,6 +689,13 @@
                       "value": "1673560800000",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    }
+                    ,
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "Circle",
@@ -1027,6 +1052,12 @@
                       "value": "1673478960000",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "BYUtv",
@@ -1371,6 +1402,12 @@
                       "value": "Expires in 8 hours",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "BYUtv",
