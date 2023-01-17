@@ -56,6 +56,19 @@
                                     "target": "",
                                     "isClickable": false,
                                     "elementType": "description"
+                                },
+                                {
+                                    "elementSubtype": "subtitle",
+                                    "contentCode": "tvshow_info",
+                                    "data": "3 Seasons | 44 Episodes | TV-14",
+                                    "rowNumber": 2,
+                                    "columnSpan": 1,
+                                    "id": 16,
+                                    "columnNumber": 1,
+                                    "rowSpan": 1,
+                                    "target": " ",
+                                    "isClickable": true,
+                                    "elementType": "text"
                                 }
                             ],
                             "rowNumber": 3
