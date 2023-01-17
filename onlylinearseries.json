@@ -129,6 +129,18 @@
                       "value": "Expires in 12 hours",
                       "bgColor": "00FFFFFF",
                       "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"seek",
+                    "value":"0.03333333333333333",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
                     }
                   ],
                   "parentName": "Circle",
