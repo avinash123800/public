@@ -69,7 +69,34 @@
                                     "target": " ",
                                     "isClickable": true,
                                     "elementType": "text"
+                                },
+                                {
+                                    "elementSubtype": "showdescription",
+                                    "contentCode": "tvshow_info",
+                                    "data": "Show Description: In a world where superheroes embrace the darker side of their massive celebrity and fame, THE BOYS centers",
+                                    "rowNumber": 2,
+                                    "columnSpan": 1,
+                                    "id": 16,
+                                    "columnNumber": 1,
+                                    "rowSpan": 1,
+                                    "target": " ",
+                                    "isClickable": true,
+                                    "elementType": "showdescription"
+                                },
+                                {
+                                    "elementSubtype": "cast",
+                                    "contentCode": "tvshow_info",
+                                    "data": "Cast : Karl Urban, Jack Quaid, Antony Starr",
+                                    "rowNumber": 2,
+                                    "columnSpan": 1,
+                                    "id": 16,
+                                    "columnNumber": 1,
+                                    "rowSpan": 1,
+                                    "target": " ",
+                                    "isClickable": true,
+                                    "elementType": "cast"
                                 }
+                                
                             ],
                             "rowNumber": 3
                         },
