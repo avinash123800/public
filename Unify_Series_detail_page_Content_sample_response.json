@@ -154,6 +154,58 @@
                                     "target": "series/episodes/18825808",
                                     "isClickable": true,
                                     "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
+                                    "elementSubtype": "browse_episode",
+                                    "contentCode": "unified_series_info",
+                                    "data": "Episodes",
+                                    "rowNumber": 4,
+                                    "columnSpan": 1,
+                                    "id": 1447,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "series/episodes/18825808",
+                                    "isClickable": true,
+                                    "elementType": "button"
                                 }
                             ],
                             "rowNumber": 4
