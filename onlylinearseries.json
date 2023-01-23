@@ -54,6 +54,618 @@
         "paneType": "section",
         "section": {
           "sectionInfo": {
+            "name": "just Recorded",
+            "cardsCount": 4,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_1147",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195106",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673380800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues,season finale",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673384400000",
+                    "id": "1195106",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "(30 mins)",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673380800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673384400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 12 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"seek",
+                    "value":"0.054",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Demand",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S1 - Ep13 | Wed, Jan 11 | 1:30 AM - 2:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197612",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673521200000",
+                    "RokuGenreCode": "drama,series premiere,equestrian,comedy,family issues,season premiere",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673524800000",
+                    "id": "1197612",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673521200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Demand",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep1 | Thu, Jan 12 | 4:30 PM - 5:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197613",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673524800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673528400000",
+                    "id": "1197613",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep2 | Thu, Jan 12 | 5:30 PM - 6:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197614",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673528400000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673532000000",
+                    "id": "1197614",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673532000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep3 | Thu, Jan 12 | 6:30 PM - 7:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_1147",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Expiring Soon",
+            "cardsCount": 4,
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "epg_season_1147",
+            "dataType": "epg_season",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": false,
+            "viewAllTargetPath": "",
+            "infiniteScroll": true
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "52"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1195106",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673380800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues,season finale",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673384400000",
+                    "id": "1195106",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "(30 mins)",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673380800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673384400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "exipiryDays",
+                      "value": "Expires in 12 hours",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"seek",
+                    "value":"0.054",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Demand",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "S1 - Ep13 | Wed, Jan 11 | 1:30 AM - 2:30 AM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197612",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673521200000",
+                    "RokuGenreCode": "drama,series premiere,equestrian,comedy,family issues,season premiere",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673524800000",
+                    "id": "1197612",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673521200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Demand",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep1 | Thu, Jan 12 | 4:30 PM - 5:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197613",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673524800000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673528400000",
+                    "id": "1197613",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673524800000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                    "markerType":"badge",
+                    "value":"On Now",
+                    "bgColor":"FFFF0000",
+                    "textColor":"FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep2 | Thu, Jan 12 | 5:30 PM - 6:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Heartland",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "episode": "",
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "41"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1197614",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1673528400000",
+                    "RokuGenreCode": "drama,equestrian,comedy,family issues",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1673532000000",
+                    "id": "1197614",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "sheet_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater!",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1673528400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1673532000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "UP TV",
+                  "subtitle1": "S1 - Ep3 | Thu, Jan 12 | 6:30 PM - 7:30 PM",
+                  "subtitle4": "2224158",
+                  "layout": "landscape",
+                  "title": "Heartland",
+                  "imageUrl": "epg,2224158_7087364__derived_jpg_q90_500x500_m0_HeartlandS16_3840x2160_KA_6_1663744497865_6.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "epg_season_1147",
+            "lastIndex": 36
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
             "name": "Season 1",
             "cardsCount": 4,
             "description": "",
