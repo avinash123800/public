@@ -103,7 +103,7 @@
                                     "elementType": "text"
                                 },
                                 {
-                                    "elementSubtype": "latest_episode_target_path",
+                                    "elementSubtype": "resume",
                                     "contentCode": "unified_series_info",
                                     "data": "Continue Watching",
                                     "rowNumber": 1,
