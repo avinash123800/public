@@ -115,9 +115,22 @@
                                     "isClickable": true,
                                     "elementType": "button"
                                 },
-                                 {
+                                { 
+                                    "elementSubtype": "continue_watch_watched_position",                                    
+                                    "contentCode": "unified_series_info",                                    
+                                    "data": "0.0",                                    
+                                    "rowNumber": 4,                                    
+                                    "columnSpan": 1,                                    
+                                    "id": 1480,                                    
+                                    "columnNumber": 2,                                    
+                                    "rowSpan": 1,                                    
+                                    "target": "",                                    
+                                    "isClickable": false,                                    
+                                    "elementType": "markers"                                
+                                },
+                                {
                                     "elementSubtype": "record",
-                                    "contentCode": "record,
+                                    "contentCode": "record",
                                     "data": "Rec Series",
                                     "rowNumber": 1,
                                     "columnSpan": 1,
