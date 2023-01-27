@@ -116,7 +116,7 @@
                                     "elementType": "button"
                                 },
                                 {
-                                    "elementSubtype": "record",
+                                    "elementSubtype": "form-field",
                                     "contentCode": "record",
                                     "data": "Rec Series",
                                     "rowNumber": 1,
