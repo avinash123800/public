@@ -115,19 +115,6 @@
                                     "isClickable": true,
                                     "elementType": "button"
                                 },
-                                { 
-                                    "elementSubtype": "continue_watch_watched_position",                                    
-                                    "contentCode": "unified_series_info",                                    
-                                    "data": "0.0",                                    
-                                    "rowNumber": 4,                                    
-                                    "columnSpan": 1,                                    
-                                    "id": 1480,                                    
-                                    "columnNumber": 2,                                    
-                                    "rowSpan": 1,                                    
-                                    "target": "",                                    
-                                    "isClickable": false,                                    
-                                    "elementType": "markers"                                
-                                },
                                 {
                                     "elementSubtype": "record",
                                     "contentCode": "record",
@@ -198,6 +185,19 @@
                                     "target": "",
                                     "isClickable": false,
                                     "elementType": "marker"
+                                },
+                                {
+                                "elementSubtype":"continue_watch_watched_position",
+                                "contentCode":"unified_series_info",
+                                "data":"0.0",
+                                "rowNumber":4,
+                                "columnSpan":1,
+                                "id":1480,
+                                "columnNumber":2,
+                                "rowSpan":1,
+                                "target":"",
+                                "isClickable":false,
+                                "elementType":"markers"
                                 }
                             ],
                             "rowNumber": 5
