@@ -115,6 +115,19 @@
                                     "isClickable": true,
                                     "elementType": "button"
                                 },
+                                 {
+                                    "elementSubtype": "record",
+                                    "contentCode": "record,
+                                    "data": "Rec Series",
+                                    "rowNumber": 1,
+                                    "columnSpan": 1,
+                                    "id": 1469,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "channel/live/circle",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
                                 {
                                     "elementSubtype": "subtitle1",
                                     "contentCode": "unified_series_info",
@@ -209,7 +222,7 @@
             "selectedTab": ""
         },
         "pageButtons": {
-            "showFavouriteButton": false,
+            "showFavouriteButton": true,
             "isFavourite": false
         },
         "seoInfo": {
