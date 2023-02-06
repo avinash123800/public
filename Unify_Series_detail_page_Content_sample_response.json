@@ -129,7 +129,7 @@
                                     "elementType": "button"
                                 },
                                 {
-                                    "elementSubtype": "subtitle1",
+                                    "elementSubtype": "subtitle2",
                                     "contentCode": "unified_series_info",
                                     "data": "Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to winTim buys a racehorse from Lisa, and puts everything on the line to win.",
                                     "rowNumber": 4,
@@ -142,7 +142,7 @@
                                     "elementType": "text"
                                 },
                                 {
-                                    "elementSubtype": "subtitle2",
+                                    "elementSubtype": "subtitle1",
                                     "contentCode": "unified_series_info",
                                     "data": "S3 | EP7 | The Starting Gate",
                                     "rowNumber": 4,
