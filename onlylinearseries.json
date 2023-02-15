@@ -1,6 +1,4 @@
 {
-  "status": true,
-  "response": {
     "data": [
       {
         "paneType": "content",
@@ -2598,4 +2596,3 @@
       "metaTags": []
     }
   }
-}
