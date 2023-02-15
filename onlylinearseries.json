@@ -251,11 +251,17 @@
                                     "subtitle5": "",
                                     "subtitle3": "45",
                                     "parentIcon": "",
-                                    "subtitle2": "Lou isn't pleased when a neighbouring rancher brings a pregnant mare named Melody to stay at Heartland. Lou has no intention of playing mid-wife to a pregnant mare, but Jack insists Melody stay. Ty is astonished when Jack asks him to join him on a cattle roundup. When they arrive at the cow camp, Jack and Ty are introduced to the trail boss who is none other than Tim Fleming. Meanwhile back at Heartland, Ben is avoiding his aunts phone calls after she buys him a jumping ring.",
+                                    "subtitle2": "Lou isn't pleased when a neighbouring rancher brings a pregnant mare named Melody to stay at Heartland. Lou has no intention of playing mid .",
                                     "markers": [
                                         {
                                             "markerType": "badge",
                                             "value": "Coming Soon",
+                                            "bgColor": "00FFFFFF",
+                                            "textColor": "FFFFA500"
+                                        },
+                                        {
+                                            "markerType": "seek",
+                                            "value": 0.5,
                                             "bgColor": "00FFFFFF",
                                             "textColor": "FFFFA500"
                                         }
@@ -300,6 +306,12 @@
                                         {
                                             "markerType": "badge",
                                             "value": "Coming Soon",
+                                            "bgColor": "00FFFFFF",
+                                            "textColor": "FFFFA500"
+                                        },
+                                        {
+                                            "markerType": "seek",
+                                            "value": 0.5,
                                             "bgColor": "00FFFFFF",
                                             "textColor": "FFFFA500"
                                         }
