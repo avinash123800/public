@@ -129,6 +129,19 @@
                                     "elementType": "button"
                                 },
                                 {
+                                    "elementSubtype": "add_to_favourites",
+                                    "contentCode": "add_to_favourites",
+                                    "data": "Rec Series",
+                                    "rowNumber": 1,
+                                    "columnSpan": 1,
+                                    "id": 1469,
+                                    "columnNumber": 2,
+                                    "rowSpan": 1,
+                                    "target": "channel/live/circle",
+                                    "isClickable": true,
+                                    "elementType": "button"
+                                },
+                                {
                                     "elementSubtype": "subtitle2",
                                     "contentCode": "unified_series_info",
                                     "data": "Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to win Tim buys a racehorse from Lisa, and puts everything on the line to winTim buys a racehorse from Lisa, and puts everything on the line to win.",
