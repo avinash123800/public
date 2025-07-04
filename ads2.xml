@@ -6,7 +6,7 @@
         <creative adUnit="video" baseUnit="video" creativeId="12" duration="30.0">
           <creativeRenditions>
             <creativeRendition creativeApi="None" creativeRenditionId="1" height="360" preference="0" width="640">
-              <asset bytes="1014433" contentType="video/mp4-h264" id="1" mimeType="video/mp4" name="Test Ad 1" url="https://github.com/avinash123800/public/raw/refs/heads/main/SampleVideo_1280x720_1mb.mp4"/>
+              <asset bytes="1014433" contentType="video/mp4-h264" id="1" mimeType="video/mp4" name="Test Ad 1" url="https://github.com/avinash123800/public/raw/refs/heads/main/smoking_Add.mp4"/>
             </creativeRendition>
           </creativeRenditions>
         </creative>
