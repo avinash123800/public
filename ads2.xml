@@ -1,0 +1,29 @@
+<adResponse networkId="83583" version="1">
+  <visitor/>
+  <ads>
+    <ad adId="1" adUnit="3">
+      <creatives>
+        <creative adUnit="video" baseUnit="video" creativeId="12" duration="30.0">
+          <creativeRenditions>
+            <creativeRendition creativeApi="None" creativeRenditionId="1" height="360" preference="0" width="640">
+              <asset bytes="1014433" contentType="video/mp4-h264" id="1" mimeType="video/mp4" name="Test Ad 1" url="https://github.com/avinash123800/public/raw/refs/heads/main/SampleVideo_1280x720_1mb.mp4"/>
+            </creativeRendition>
+          </creativeRenditions>
+        </creative>
+      </creatives>
+    </ad>
+  </ads>
+  <siteSection customId="sample_channel">
+    <videoPlayer>
+      <videoAsset customId="150926">
+        <adSlots>
+          <temporalAdSlot adUnit="Standard Pre" customId="0.0.0.380260307" source="generated" timePosition="0" timePositionClass="preroll">
+            <selectedAds>
+              <adReference adId="1" creativeId="12" creativeRenditionId="1" replicaId="0"> </adReference>
+            </selectedAds>
+          </temporalAdSlot>
+        </adSlots>
+      </videoAsset>
+    </videoPlayer>
+  </siteSection>
+</adResponse>
